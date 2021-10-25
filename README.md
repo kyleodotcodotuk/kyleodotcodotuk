@@ -4,4 +4,4 @@
 - 🎓 I’m currently learning WordPress, Design & Project Management
 - ☕ No coffee after noon, tea is far better
 - 🧠 Look after your mind and your body
-- 📍  I’m working in Sidcup, London UK
+- 📍 &nbsp;I’m working in Sidcup, London UK
