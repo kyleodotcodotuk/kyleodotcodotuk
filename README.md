@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kyle O'Connor (@kyleodotcodotuk)
-- 👍 I'm currently strong with Front End, SASS & JS
-- 👀 I’m interested in Front End and Back End
-- 🎓 I’m currently learning WordPress, Design & Project Management
+- 👍 Proficient with Frontend Development
+- 🎓 Learning WordPress, Design & Project Management
 - ☕ No coffee after noon, tea is far better
 - 🧠 Look after your mind and your body
-- 📍 &nbsp;I’m working in Sidcup, London UK
+- &nbsp;📍&nbsp; Working in London, UK
