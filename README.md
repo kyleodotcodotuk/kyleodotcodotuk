@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle O'Connor (@kyleodotcodotuk)
 - 👍 Talented with Frontend Development
 - 🤞&nbsp; Competent with Backend Development
-- 🎓 Learning PHP, React, Design & Project Management
+- 🎓 Learning PHP, React, Design & UI
 - ☕ No coffee after noon, tea is far better
 - 🧠 Look after your mind and your body
-- &nbsp;📍&nbsp; Working in London, UK
+- &nbsp;📍&nbsp; WFH
