@@ -4,4 +4,4 @@
 - 🎓 Know React, JS, CSS, PHP & general design & UI
 - ☕ No coffee after noon, tea is far better
 - 🧠 Look after your mind and your body
-- &nbsp;📍&nbsp; WFH
+- &nbsp;📍&nbsp; WFH &middot; Live in Manchester
