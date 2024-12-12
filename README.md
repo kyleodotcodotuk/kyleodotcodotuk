@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kyle O'Connor (@kyleodotcodotuk)
 - 👍 UI Expert
-- 🤞&nbsp; Competent with Backend
+- 🤞&nbsp;Competent with Backend
 - 🎓 Know JS, CSS, PHP, React, AngularJS
 - 🧑🏻‍💻 Learning Angular 2+
 - ☕ No coffee after noon, tea is far better
 - 🧠 Look after your mind and your body
-- &nbsp;📍 WFH &middot; Live in Manchester
+- 📍 WFH &middot; Live in Manchester
